@@ -1,9 +1,24 @@
-<mxfile host="app.diagrams.net" modified="2024-07-04T06:39:56.294Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 QuarkPC/1.5.1.72" version="24.6.4" etag="9pPYxEBaSFY_hzzgf-jW" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-04T06:42:07.108Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 QuarkPC/1.5.1.72" etag="6P439Nh6Xt-p3uitIAeF" version="24.6.4" type="github">
   <diagram name="第 1 页" id="BExVDsO33mmpxlcEgFEQ">
-    <mxGraphModel>
+    <mxGraphModel dx="914" dy="699" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="757eh8DTvw7_AJN7tfBK-1" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;b&gt;高温锻件&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="200" y="150" width="420" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="757eh8DTvw7_AJN7tfBK-3" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;&lt;b&gt;2D相机&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="360" y="420" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="757eh8DTvw7_AJN7tfBK-4" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="385" y="400" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="757eh8DTvw7_AJN7tfBK-5" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;&lt;b&gt;测温相机&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="470" y="420" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="757eh8DTvw7_AJN7tfBK-6" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="495" y="400" width="50" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
